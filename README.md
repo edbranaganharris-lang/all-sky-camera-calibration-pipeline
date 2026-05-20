@@ -1,5 +1,7 @@
 # all-sky-camera-calibration-pipeline
-Multi-stage computational lens distortion correction pipeline for an all-sky camera.
+Multi-stage computational lens distortion correction pipeline for an all sky camera (ASC). A calibration image was taken of a 3D printed 'pinhole dome'. The pinhole pixel coordinates were then extracted using SAOImage DS9, as the light exposure was too high to use centroiding algorithms. I coded a 'physical model' to match the extracted coordinate data as precisely as possible using physical parameters such as focal length, tilt, and rotation. This was followed by a linear regression polynomial correction model to be used on subsequent images taken by the ASC. 
+
+The final correction model reached a precision of 0.478 ± 0.364 px above 60° altitude.
 
 Developed as a final year astrophysics project at the University of Bristol, PHYS30034 Research Project in Physics. Mark yet to be released.
 
