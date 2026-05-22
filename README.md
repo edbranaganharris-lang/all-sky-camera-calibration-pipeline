@@ -5,8 +5,10 @@ The final correction model reached a precision of 0.478 ± 0.364 px above 60° a
 
 Developed as a final year astrophysics project at the University of Bristol, PHYS30034 Research Project in Physics. Mark yet to be released.
 
+
+<img width="2028" height="1520" alt="image-20260306154232" src="https://github.com/user-attachments/assets/f6dcb0f8-44a1-4b41-9a89-d07dd8898301" />
+The image taken by the All-Sky-Camera with the calibration dome fitted above.
 <img width="600" height="458" alt="Distortion Heatmap ASC" src="https://github.com/user-attachments/assets/312a08ff-60cc-4af4-bc67-0a415262e72e" />
 <img width="519" height="500" alt="Residuals" src="https://github.com/user-attachments/assets/8ab26165-dc8e-4038-af91-2b87c9a326f5" />
 <img width="600" height="458" alt="Polynomial Distortion Map" src="https://github.com/user-attachments/assets/fa759d74-edd2-4a51-825b-64aa158ee4aa" />
 <img width="551" height="572" alt="Model Alignment" src="https://github.com/user-attachments/assets/5ebd9706-f0d2-4da6-8857-be4a2bf5c032" />
-
