@@ -3,7 +3,7 @@ Multi-stage computational lens distortion correction pipeline for an all sky cam
 
 The final correction model reached a precision of 0.478 ± 0.364 px above 60° altitude.
 
-Developed as a final year astrophysics project at the University of Bristol, PHYS30034 Research Project in Physics. Mark yet to be released.
+Developed as a final year astrophysics project at the University of Bristol, PHYS30034 Research Project in Physics. Achieved 78%.
 
 
 <img width="2028" height="1520" alt="image-20260306154232" src="https://github.com/user-attachments/assets/f6dcb0f8-44a1-4b41-9a89-d07dd8898301" />
